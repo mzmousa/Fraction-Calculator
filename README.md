@@ -5,6 +5,6 @@ An interactive fraction calculator that allows addition, subtraction, multiplica
 
 ### How to Run
 1. Clone this project into your local directory
-2. Run `FractionCalculator.jar` located in folder `src`
+2. Run `FractionCalculator.jar` located in folder `dist`
 
 ![fruit-catcher-load] (https://raw.githubusercontent.com/mzmousa/Fraction-Calculator/master/multiply.png)
