@@ -9,4 +9,4 @@ Written in Java using the Netbeans IDE.
 1. Clone this project into your local directory
 2. Run `FractionCalculator.jar` located in folder `dist`
 
-![fruit-catcher-load] (https://raw.githubusercontent.com/mzmousa/Fraction-Calculator/master/multiply.png)
+![fruit-catcher-load](https://raw.githubusercontent.com/mzmousa/Fraction-Calculator/master/multiply.png)
